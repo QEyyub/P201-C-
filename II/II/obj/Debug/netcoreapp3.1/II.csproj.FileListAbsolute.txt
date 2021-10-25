@@ -1,0 +1,14 @@
+C:\Users\kadir\source\repos\II\II\bin\Debug\netcoreapp3.1\II.exe
+C:\Users\kadir\source\repos\II\II\bin\Debug\netcoreapp3.1\II.deps.json
+C:\Users\kadir\source\repos\II\II\bin\Debug\netcoreapp3.1\II.runtimeconfig.json
+C:\Users\kadir\source\repos\II\II\bin\Debug\netcoreapp3.1\II.runtimeconfig.dev.json
+C:\Users\kadir\source\repos\II\II\bin\Debug\netcoreapp3.1\II.dll
+C:\Users\kadir\source\repos\II\II\bin\Debug\netcoreapp3.1\II.pdb
+C:\Users\kadir\source\repos\II\II\obj\Debug\netcoreapp3.1\II.csproj.AssemblyReference.cache
+C:\Users\kadir\source\repos\II\II\obj\Debug\netcoreapp3.1\II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\source\repos\II\II\obj\Debug\netcoreapp3.1\II.AssemblyInfoInputs.cache
+C:\Users\kadir\source\repos\II\II\obj\Debug\netcoreapp3.1\II.AssemblyInfo.cs
+C:\Users\kadir\source\repos\II\II\obj\Debug\netcoreapp3.1\II.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\II\II\obj\Debug\netcoreapp3.1\II.dll
+C:\Users\kadir\source\repos\II\II\obj\Debug\netcoreapp3.1\II.pdb
+C:\Users\kadir\source\repos\II\II\obj\Debug\netcoreapp3.1\II.genruntimeconfig.cache
